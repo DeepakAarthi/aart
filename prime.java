@@ -2,7 +2,7 @@ package prime;
 import java.util.Scanner;
 public class prime {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
       int num, i, count=0;
         Scanner scan = new Scanner(System.in);
 		
