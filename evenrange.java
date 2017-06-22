@@ -8,8 +8,6 @@ public class evenrange {
 			if(i%2==0){
 				System.out.print("\t"+i);
 			}
-		}
-
-	}
+		}}
 
 }
