@@ -20,7 +20,6 @@ public class Armstrong {
 		    else  
 		        System.out.println("Not armstrong number");   
 		   }  
-		
-	}
+}
 
 
