@@ -10,18 +10,11 @@ public class specialchar {
 		count++;
 		System.out.println(count);
 	}
-	else if(at>='0'&&at<='9')
+	else
+		
 	{
-		int c=0;
-		c++
-		System.out.println(c);
-	}
-	else{
-		intm=0;
-		m++;
-		System.out.println(m);
-	}
+		System.ot.println("not a character");
 	}
 
 	
-}
+}}
