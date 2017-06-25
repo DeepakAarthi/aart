@@ -8,9 +8,6 @@ public class primeno {
 			if(n%i==0){
 				System.out.println(""+n);
 			}
-		}}
-
-
-	}
+		}}}
 
 }
