@@ -6,14 +6,20 @@ public class specialchar {
 	char at='2';
 	if(at>='A'&&at<='Z'||at>='a'&&at<='z')
 	{
-		System.out.println("alphabets");
+		int count=0;
+		count++;
+		System.out.println(count);
 	}
 	else if(at>='0'&&at<='9')
 	{
-		System.out.println("digits");
+		int c=0;
+		c++
+		System.out.println(c);
 	}
 	else{
-		System.out.println("Special characters");
+		intm=0;
+		m++;
+		System.out.println(m);
 	}
 	}
 
