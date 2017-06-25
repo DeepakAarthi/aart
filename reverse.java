@@ -7,8 +7,6 @@ public class reverse {
 	String reverse=new StringBuffer(a).reverse().to String();
 System.out.println(""+a);
 System.out.println(""+reverse);
-	
-
 	}
 
 }
