@@ -16,7 +16,6 @@ public class Fact {
 		}
 		System.out.println("Factorial is :" +fect);
 		}
-	
 	}
 
 
