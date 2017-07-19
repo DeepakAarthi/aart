@@ -13,6 +13,6 @@ public static void main(String[] args){
 if(x[j]==1){
 	System.out.println(j);
 }
-	}
+}
 }
 
