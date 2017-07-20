@@ -14,5 +14,6 @@ if(x[j]==1){
 	System.out.println(j);
 }
 }
+
 }
 
