@@ -8,3 +8,4 @@ for(int j=15;i<=45;i++){
 if(j%2!=0){
 int odd=odd+j;}}
 System.out.println(odd);
+}}
